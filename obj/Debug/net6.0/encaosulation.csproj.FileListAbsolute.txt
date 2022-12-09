@@ -1,0 +1,15 @@
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\bin\Debug\net6.0\encaosulation.exe
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\bin\Debug\net6.0\encaosulation.deps.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\bin\Debug\net6.0\encaosulation.runtimeconfig.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\bin\Debug\net6.0\encaosulation.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\bin\Debug\net6.0\encaosulation.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.csproj.AssemblyReference.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.AssemblyInfoInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.AssemblyInfo.cs
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\refint\encaosulation.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\encaosulation.genruntimeconfig.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\encaosulation\obj\Debug\net6.0\ref\encaosulation.dll
